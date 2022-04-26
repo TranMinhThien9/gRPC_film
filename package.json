@@ -1,0 +1,26 @@
+{
+  "name": "gRPC_film",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranMinhThien9/gRPC_film.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranMinhThien9/gRPC_film/issues"
+  },
+  "homepage": "https://github.com/TranMinhThien9/gRPC_film#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "grpc": "^1.24.11",
+    "knex": "^2.0.0",
+    "mysql2": "^2.3.3"
+  }
+}
